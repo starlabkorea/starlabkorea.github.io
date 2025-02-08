@@ -625,15 +625,7 @@ export default function CodingClass() {
           {/* 자격증 로고 섹션 */}
           <div className='bg-white/50 backdrop-blur-sm rounded-2xl p-10 border border-blue-100 
                           shadow-lg mb-16'>
-            <p className='text-center text-gray-600 font-medium mb-8'>
-              취득 가능 자격증
-            </p>
             <div className='flex flex-wrap justify-center items-center gap-16'>
-              <img 
-                src='/icons/ybmit.png' 
-                alt='YBM IT' 
-                className='h-12 object-contain hover:scale-110 transition-all duration-300 opacity-90 hover:opacity-100'
-              />
               <img 
                 src='/icons/cospro.png' 
                 alt='COS Pro' 
