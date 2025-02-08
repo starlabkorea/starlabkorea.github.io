@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "format": "eslint --fix ."
   },
+  "homepage": "https://starlabkorea.github.io",
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.2",
     "class-variance-authority": "^0.7.1",
