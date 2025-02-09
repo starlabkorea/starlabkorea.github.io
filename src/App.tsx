@@ -6,15 +6,9 @@ export default function CodingClass() {
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   const images = [
-    '/images/compete1.png',
     '/images/compete7.png',
-    '/images/compete2.png',
-    '/images/compete3.png',
     '/images/compete8.png',
-    '/images/compete4.png',
-    '/images/compete5.png',
     '/images/compete9.png',
-    '/images/compete6.png',
   ];
 
   const sliderRef = useRef<HTMLDivElement>(null);
