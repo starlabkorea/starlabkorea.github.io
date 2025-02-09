@@ -9,6 +9,8 @@ export default function CodingClass() {
     '/images/compete7.png',
     '/images/compete8.png',
     '/images/compete9.png',
+    '/images/compete2.png',
+    '/images/compete5.png',
   ];
 
   const sliderRef = useRef<HTMLDivElement>(null);
