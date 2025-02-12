@@ -8,6 +8,8 @@ export default function CodingClass() {
   const images = [
     '/images/compete7.png',
     '/images/compete8.png',
+    '/images/compete10.png',
+    '/images/compete11.png',
     '/images/compete9.png',
     '/images/compete2.png',
     '/images/compete5.png',
@@ -293,7 +295,7 @@ export default function CodingClass() {
                     <h3 className='text-[14px] font-semibold'>6-7세</h3>
                   </div>
                   <p className='text-gray-700 font-bold text-[20px] mb-2'>
-                    INNOVATOR • BrickQ
+                    INNOVATOR • BricQ
                   </p>
                   <p className='text-gray-500 text-[11px]'>
                     물체의 힘과 운동을 직접 탐구하며
@@ -528,7 +530,7 @@ export default function CodingClass() {
                       ROBOTEX ASIA
                     </h3>
                     <div className='inline-block px-3 py-1 bg-blue-500/20 rounded-full'>
-                      <p className='text-blue-200 text-sm'>1KG 부문 우승</p>
+                      <p className='text-blue-200 text-sm'>1KG 부문 1위</p>
                     </div>
                   </div>
                   <img
@@ -551,8 +553,13 @@ export default function CodingClass() {
                     <h3 className='text-2xl font-bold text-blue-100 mb-2'>
                       ROBOTEX ASIA
                     </h3>
-                    <div className='inline-block px-3 py-1 bg-blue-500/20 rounded-full'>
-                      <p className='text-blue-200 text-sm'>3KG 부문 우승</p>
+                    <div className='flex gap-2'>
+                      <div className='inline-block px-3 py-1 bg-blue-500/20 rounded-full'>
+                        <p className='text-blue-200 text-sm'>3KG 부문 1위</p>
+                      </div>
+                      <div className='inline-block px-3 py-1 bg-blue-500/20 rounded-full'>
+                        <p className='text-blue-200 text-sm'>3KG 부문 2위</p>
+                      </div>
                     </div>
                   </div>
                   <img
@@ -563,6 +570,7 @@ export default function CodingClass() {
                 </div>
                 <div className='space-y-2'>
                   <p className='text-blue-200 text-sm'>김O구 · 최O원</p>
+                  <p className='text-blue-200 text-sm'>김O윤 · 지O승 · 최O재</p>
                 </div>
               </div>
             </div>
